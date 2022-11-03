@@ -2,12 +2,12 @@
 <html>
 <head>
 	<title> Live Scores &amp; Updates </title>
-	<link   rel="stylesheet" href="css/style.css" type="text/css"> </link>
+	<link rel="stylesheet" href="css/style.css" type="text/css"> </link>
 </head>
 <body>
 <div>
 	<header>
-		<a href="index.php"><h1>CRIKSO</h1></a>
+		<h1><i><a href="index.php">CRIKSOOO...🏏</a></i></h1>
 	</header>
 	<nav>
 	   <ul>
@@ -19,7 +19,7 @@
 	   </ul>
 	</nav>
 	<section>
-			<img src="image/ckt.jpg" alt="crickso logo" width="960" height="560">
+			<img src="images/ckt.jpg" alt="crickso logo" width="960" height="560">
 	</section>
 	<footer>
 		
