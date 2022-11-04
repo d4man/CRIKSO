@@ -15,11 +15,7 @@ body {
 <div>
 
 	<header>
-<<<<<<< HEAD:index.php
-		<h1>Live Scores</h1>
-=======
 		<h1><i><a href="index.php">CRIKSOOO...🏏</a></i></h1>
->>>>>>> 8a77304d027f49929ce5efa807ddd06dedaf6825:cricinfo/index.php
 	</header>
 	<nav>
 	   <ul>
