@@ -14,7 +14,7 @@ $result1=$active->activeTeam();
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="5;url=http://localhost/cricinfo/liveScores.php" />
+  <meta http-equiv="refresh" content="5;url=https://crikso.herokuapp.com/liveScores.php" />
 	<title> Live Scores </title>
 	<link   rel="stylesheet" href="css/style.css" type="text/css"> </link>
 </head>
