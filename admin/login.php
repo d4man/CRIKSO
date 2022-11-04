@@ -53,8 +53,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 	<title>Login</title>
 	<link type="text/css" rel="stylesheet" href="resources/css/bootstrap.css">
 	<link type="text/css" rel="stylesheet" href="resources/css/style.css">
+	
 </head>
 <body>
+<div>
+<a href="../index.php" class="btn btn-primary btn-lg" >Home</a>
+</div>	
 	<div class="container-fluid">
 		<div class="col-md-offset-4 col-md-4">
 			<h1 class="text-center">Log in</h1>
@@ -75,11 +79,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 					<input type="submit" name="register" value="Log in" class="btn btn-primary btn-lg"/>
 				
 				</div>
-				<div>
-			    
-				<a href="../index.php" class="btn btn-primary btn-lg">Home</a>
-                
-                </div>
+				
 			</form>
 		</div>
 	</div>

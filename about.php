@@ -4,6 +4,13 @@
 	<title> Live Scores &amp; Updates </title>
 	<link   rel="stylesheet" href="css/style.css" type="text/css"> </link>
 </head>
+<style>
+body {
+  background-image: url('image/bg1.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+</style>
 <body>
 <div>
 	<header>

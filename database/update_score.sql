@@ -53,6 +53,7 @@ INSERT INTO `admin` (`id`, `firstname`, `username`, `password`, `email`, `role`,
 (17, 'Sahil', 'sahil', '12345', 'sahil1540@cseku.ac.bd', 'admin', 1, 1),
 (18, 'Japneet Singh', 'japneet', '12345', 'japneet@gmail.com', 'admin', 1, 0),
 
+
 -- --------------------------------------------------------
 
 --
@@ -86,7 +87,6 @@ CREATE TABLE IF NOT EXISTS `m_atch` (
 INSERT INTO `m_atch` (`match_id`, `team_Aid`, `team_Bid`, `team_Aname`, `team_Bname`, `admin_name`, `toss`, `overs`, `isActive`, `isSelect`, `adminid`, `isFinished`) VALUES
 (42, 95, 96, 'Bangladesh', 'India', 'sahil', 95, 1, 1, 1, 17, 0),
 (43, 97, 98, 'Dhaka', 'Khulna', 'damanjot', 97, 2, 1, 1, 13, 1);
-
 
 -- --------------------------------------------------------
 
