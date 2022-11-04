@@ -14,7 +14,7 @@ body {
 <body>
 <div>
 
-	<header>
+	<header>3
 		<h1><i><a href="index.php">CRIKSOOO...🏏</a></i></h1>
 	</header>
 	<nav>
@@ -27,7 +27,7 @@ body {
 	   </ul>
 	</nav>
 	<section>
-			<img src="images/ckt.jpg" alt="crickso logo" width="960" height="560">
+			<img src="image/ckt.jpg" alt="crickso logo" width="960" height="560">
 	</section>
 	<footer>
 		
